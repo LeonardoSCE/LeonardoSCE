@@ -49,6 +49,14 @@
 </p>
 
 
+## 📫 How to Reach Me:
+
+[![Instagram](https://img.shields.io/badge/Instagram-@leonardo_c_e-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/leonardo_c_e/)
+[![Facebook](https://img.shields.io/badge/Facebook-leonardo.cueva.e-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/leonardo.cueva.e)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-leonardosce-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leonardosce/)
+[![Email](https://img.shields.io/badge/Email-lsce1789@gmail.com.com-%231DA1F2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lscce1789@gmail.com.com)
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
